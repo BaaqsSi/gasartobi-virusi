@@ -9,3 +9,4 @@ proekti saxelad mari mushaobs mxolod windowsze radgaanc windows.h aris gamoyeneb
 
 
 ![image](https://github.com/user-attachments/assets/f9b7d0d9-3ed1-4c2d-bbf1-33c9dd6d7836)
+![image](https://github.com/user-attachments/assets/13e446a9-d9c5-4507-85e6-9c21dfc1f9d2)
