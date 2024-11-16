@@ -15,4 +15,4 @@ tu swore credentials sheiyvant itisheba
 
 
 tu araswors iwyeba snake game
-![image](https://github.com/user-attachments/assets/cd7a4bbf-823e-472b-9b78-e6a015b5e800)
+![image](https://github.com/user-attachments/assets/012e0aa7-eb87-496c-a563-bb1b357be7da)
