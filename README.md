@@ -15,5 +15,5 @@ tu swore credentials sheiyvant itisheba
 ![image](https://github.com/user-attachments/assets/13e446a9-d9c5-4507-85e6-9c21dfc1f9d2)
 
 
-tu araswors iwyeba snake game
+tu araswors iwyeba snake game (miveba cursos nel-nela)
 ![image](https://github.com/user-attachments/assets/012e0aa7-eb87-496c-a563-bb1b357be7da)
