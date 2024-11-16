@@ -309,5 +309,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow) {
     // moshoreba hookis tu app gaitisha
     RemoveKeyboardHook();
 
+    //aplikaciastan mushaobas vervitan gui-stan shexeba cxovrebashi imedia agharasdros meqneba KYS
+    
     return 0;
 }
